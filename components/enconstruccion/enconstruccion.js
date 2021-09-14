@@ -1,5 +1,6 @@
 import React from 'react';
 import ss from './enconstruccion.module.scss'
+import Head from 'next/head'
 
 const enconstruccion = () => {
    return (
@@ -11,9 +12,14 @@ const enconstruccion = () => {
 
          </div> */}
 
+         <Head>
+            <title>HSM</title>
+
+         </Head>
+
 
          <div className={ss.background}>
-                        <div className={ss.logo}>
+            <div className={ss.logo}>
                <svg width="240" height="67" viewBox="0 0 240 67" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M89.648 7.74797V15.9685H89.0257V12.0345H84.2458V15.9685H83.6233V7.74797H84.2458V11.4471H89.0257V7.74797H89.648Z" fill="#666666" />
                   <path d="M98.5502 13.291L96.7182 8.51136L94.8862 13.291H98.5502ZM98.7735 13.8783H94.6512L93.8528 15.9688H93.1951L96.3896 7.748H97.0471L100.23 15.9688H99.572L98.7735 13.8783Z" fill="#666666" />
