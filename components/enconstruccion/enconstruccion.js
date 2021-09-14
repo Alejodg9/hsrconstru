@@ -13,7 +13,7 @@ const enconstruccion = () => {
          </div> */}
 
          <Head>
-            <title>HSM</title>
+            <title>HSR-abogados</title>
 
          </Head>
 
