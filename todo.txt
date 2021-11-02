@@ -1,0 +1,164 @@
+🟡D) En la sección novedades vamos a arrancar con cuatro cuyos texto les pasaremos en breve:
+i) Alerta Normativa de Guille.
+ii ) Operación de CompraVenta Distrisam.
+iii) Art. Sebas: Regulación del juego.
+iv) Aviso en Apertura.
+
+areas de pracitca
+
+socios
+
+--------------------------
+El "efecto" sobre las palabras "socios" y "areas de práctica" no funciona en la versión celular.
+
+Socios: Los recuadros con los nombres tienen distinto tamaño. En un correo independiente les vamos a enviar fotos actualizadas de nosotros tres. Son las que estan en nuestro perfil personal de Linkedin.
+
+Finalmente en algún lugar (quizás en la parte de abajo junto a contacto), deberia incluirse la posibilidad de "adherirse" a nuestro newsletter. Por favor copiar el esquema de Cerolini:
+
+Video de Iphones
+
+
+
+
+
+
+
+==>MAQUETEADO
+⚪Armar Footer
+🟢Terminar Carrousel
+⚪Poner diferentes imagenes para el componente HeaderSub
+🟢Armar Peek de Contacto en Home
+🟢Armar Footer
+
+
+==>FUNCIONAL
+🟢Terminar de aramr y darle estilo a Novedades/[slug].js
+🟢hacer que funcione ING ESP en Novedades
+🟢Armar NavBar
+⚪ver brochure de descargar en PDF. contenful?
+🟢Armar formulario de Contacto y conectarlo con la app de formularios para que se renvie
+
+
+==>CHEQUEO RESPONSIVE
+🟢HOME
+🟢NOVEDADES
+🟢NOVEDADES DETALLE
+⚪SOCIOS
+⚪SOCIOS DETALLE
+⚪AREAS DE PRACTICA
+⚪CONTACTO
+
+
+
+==>CHEQUEO SEO
+⚪componente HEAD en todas las paginas, con imagen, titulo, desc, etc.
+⚪todas las imagnees tienen valor alt="..."
+⚪limpiar todos los console.logs que hay dando vuelta
+⚪Correr lighthouse y aplicar mejoras de rendimiento
+
+
+
+
+A)
+🟢1. El video del HOME no tiene movimiento en Iphones.
+🟢2. Sería bueno que pongan el "rombo" del logo del estudio en el web-browser. Por esto si quieren les mando un audio porque no se como darme a entender por escrito!
+🟢3. Dentro de las secciones reemplazar "Institucional" por "La Firma" (The Firm, en inglés). Por otro lado, reemplazar "Latest News" por "News" (Novedades en inglés)
+🟢4. Las secciones del Footer no coinciden con las del Header.
+
+B) HOME Principal
+🟢1. Eliminar el logo que se encuentra en el extremo superior izquierdo y dejar solo el rombo (eliminando el texto del logo). Este así debiera permanecer en el header (sin texto, solo el rombo).
+🟢2. Nosotros: 
+
+🟢Como regla general la vemos muy "vacia". Habría que ajustar tamaño, incluir alguna imagen, etc. 
+
+🟢 Reemplazar la frase:  "Somos una firma de abogados jovenes y de amplia trayectoria. A través del pensamiento lateral buscamos soluciones
+   alternativas a situaciones complejas", por la siguiente: "Desarrollamos relaciones de largo plazo con nuestros clientes,
+   prestando un asesoramiento jurídico ágil y comprometido" (En inglés: "We develop long-term relationships with our clients, providing agile and committed legal services")
+
+
+🟢Invertir lugar: poner primero "Areas de Práctica" y abajo "Socios". No funcionan los links (apretas socios y te lleva al Home).
+
+🟢C) Testimonios: Por favor modificar "Testimoniales" por "Testimonios" (en inglés: "Client Comments")
+   🟢or favor no pongamos el nombre de la persona física que afirma eso de nosotros, sino el nombre de la empresa acompañado con el logo.
+   🟢El punto al lado de Testimonios no esta centrado. Ralentizar el carrousel donde giran los comentarios de los clientes.
+
+
+
+🟢E) Institucional (La Firma): Las rayas de contacto y brochure tapan las letras en la versión escritorio.
+
+🟢Por favor incluir el siguiente texto:
+      Somos una firma de servicios legales que ofrece asesoramiento de calidad, enfocados especialmente hacia la empresa, y con particular apego por la eficiencia, el profesionalismo y la ética
+      Trabajamos para generar valor a través de soluciones prácticas. Aprovechamos los avances tecnológicos sin descuidar el trato personal. Cultivamos el pensamiento colaborativo, que enrique nuestro servicio.
+      En Hang Kuchen, Sporleder & Rodríguez Morales Abogados pretendemos convertirnos en socios de nuestros clientes.
+
+      We are a legal services firm that offers high quality advice, especially focused on the company, and with a particular attachment to efficiency, professionalism and ethics. We work to generate value through practical solutions. We take advantage of technological advances without neglecting personal treatment.
+      We cultivate collaborative thinking, which enriches our service.
+      At Hang Kuchen, Sporleder & Rodríguez Morales Abogados we intend to become partners of our clients.
+
+
+🟢F) Areas de Práctica: Las rayas de contacto y brochure tapan las letras en la versión escritorio.
+🟢Por favor eliminar texto introductorio. Ver la forma de que en la versión escritorio los cuadros con cada area de práctica no queden tan grandes.
+
+
+🟢Por favor eliminar la foto que pusieron el el header que se ven los aires acondicionados que cuelgan del edificio!
+🟢Fijense que en esta página (y en otras) no figura en la parte inferior "Contacto" y "Brochure".
+
+🟢H) Novedades: Cambiar fondo de estrellas por una foto. 
+
+🟢Por favor eliminar texto introductorio. Ver la forma de que en la versión escritorio los cuadros con cada novedad no queden tan grandes.
+🟢Fijense que en esta página (y en otras) no figura en la parte inferior "Contacto" y "Brochure".
+
+🟢🟢I) Carrera: Por favor incluir la posibilidad de adjuntar archivos (por si quieren enviar CV)
+🟢Fijense que en esta página (y en otras) no figura en la parte inferior "Contacto" y "Brochure".
+
+🟢Incorporar el siguiente texto:
+🟢Buscamos talentos que deseen desarrollar su carrera dentro de Hang Kuchen, Sporleder & Rodríguez Morales Abogados
+🟢En HSR promovemos principalmente la incorporación de estudiantes universitarios y abogados recién recibidos. Esta incorporación temprana a la actividad profesional enriquece sus cualidades académicas y beneficia sus posibilidades de desarrollo mediante la asimilación de los conocimientos legales y el aprendizaje e incorporación de los principios y valores que constituyen el sello de calidad de nuestros abogados.
+
+
+🟢We are looking for talents who wish to develop their career within Hang Kuchen, Sporleder & Rodríguez Morales Abogados 
+🟢HSR promotes the incorporation of students into the firm through a consolidated system of internships. The early incorporation of students into our professional activity enriches their academic qualities and benefits their chances of development in Hang Kuchen, Sporleder & Rodríguez Morales through the assimilation of legal knowledge, principles and values which constitute our lawyers’ stamp of quality.
+
+
+
+
+/////////////////////////////7
+
+==> COMENTARIOS BETA
+🟢. Como regla general, vemos muy oscuro el sitio y no nos gusta la cominación de negro o azul oscuro 
+con rojo. Nos gustaría que prime el blanco en los fondos, con letras en negro y los detalles en el rojo 
+del logo
+ok captura d epantalla
+
+🟢 2. Como criterio general, no nos gusta la fuente de letra utilizada. Fijense en los sitios de 
+CeroliniFerrari o Martinez de Hoz Rueda y pongamos alguna de esas.
+Raleway Thin
+OK- cpatura de pantalla
+
+🟢3. En cuanto a las secciones. Mas allá del Home Principal, creemos conveniente tener 
+las siguientes secciones: 1) La Firma (Institucional): Solo tendría una frase corta. 
+No incluiríamos ni visión ni misión de la firma; 2) Socios; 3) Areas de Práctica; 4) Carrera: 
+5) Novedades; 6) Contacto. Como verán decidimos separar las secciones socios de areas de práctica
+ y agregamos la sección Carrera. Esta última, tendría que tener un simple formulario para que 
+ envíen el CV y un zaraza sobre carrera profesional en el estudio que le pasaríamos nosotros
+OK- cpatura de pantalla
+Firma institucional
+
+
+🟢4. Respecto del Home, entendemos que las letras del logo del estudio sobre el video siguen 
+sin verse lo suficiente como queres (sobre todo en la versión PC). Se nos ocurre que quizás 
+podría utilizarse la negrita
+
+🟢 A su vez, en el HOME debiera eliminarse la parte de "Clientes". Con "Referencias" 
+(por favor modificar por "Testimonios") nos es suficiente para resaltar a nuestros clientes.
+
+. Los headers de cada sección debieran ser mas "finitos" y en rojo o con algúna 
+foto de fondo que le estaremos pasando. Antes habría que retocarlas para que queden menos artesanales!
+
+🟡.6 En la sección "Socios", también poner fondo blanco con el recuadro detras de 
+cada socio en rojo. Eliminar el "mas detalle" (se ampliaria la info al hacer click en cada 
+foto de socio). A su vez, en la versión web nos gustaría que un socio aparezca al lado del otro 
+(y no uno arriba de otro).
+
+
+
